@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaredRandoms", "SquaredRandoms\SquaredRandoms.csproj", "{266F6755-4532-4ADD-9F04-08AA3CC8749C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266F6755-4532-4ADD-9F04-08AA3CC8749C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266F6755-4532-4ADD-9F04-08AA3CC8749C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266F6755-4532-4ADD-9F04-08AA3CC8749C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266F6755-4532-4ADD-9F04-08AA3CC8749C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C8B882-D76E-4E9E-AA9D-D50D37EA6F17}
+	EndGlobalSection
+EndGlobal
